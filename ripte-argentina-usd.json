@@ -1,177 +1,434 @@
 [
   {
-    "Año": 1970,
-    "Dolare Nominal": 1636,
-    "Dolar Corriente Ajustado Por Infla US": 1636
+    "Año": "1/08/1976",
+    "Basico Comercio (-20%)": 205,
+    "RIPTE": 256,
+    "Joven Profesional (+20%)": 320,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 256,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1381
   },
   {
-    "Año": 1972,
-    "Dolare Nominal": 764,
-    "Dolar Corriente Ajustado Por Infla US": 710
+    "Año": "1/08/1977",
+    "Basico Comercio (-20%)": 239,
+    "RIPTE": 299,
+    "Joven Profesional (+20%)": 374,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 299,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1895
   },
   {
-    "Año": 1973,
-    "Dolare Nominal": 1940,
-    "Dolar Corriente Ajustado Por Infla US": 1700
+    "Año": "1/08/1978",
+    "Basico Comercio (-20%)": 324,
+    "RIPTE": 405,
+    "Joven Profesional (+20%)": 506,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 405,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1907
   },
   {
-    "Año": 1975,
-    "Dolare Nominal": 1252,
-    "Dolar Corriente Ajustado Por Infla US": 980
+    "Año": "1/08/1979",
+    "Basico Comercio (-20%)": 529,
+    "RIPTE": 662,
+    "Joven Profesional (+20%)": 827,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 662,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 2799
   },
   {
-    "Año": 1976,
-    "Dolare Nominal": 404,
-    "Dolar Corriente Ajustado Por Infla US": 291
+    "Año": "1/08/1980",
+    "Basico Comercio (-20%)": 800,
+    "RIPTE": 1,
+    "Joven Profesional (+20%)": 1.25,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 1000,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 3726
   },
   {
-    "Año": 1981,
-    "Dolare Nominal": 3668,
-    "Dolar Corriente Ajustado Por Infla US": 1977
+    "Año": "1/08/1981",
+    "Basico Comercio (-20%)": 544,
+    "RIPTE": 680,
+    "Joven Profesional (+20%)": 850,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 680,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 2297
   },
   {
-    "Año": 1981,
-    "Dolare Nominal": 2436,
-    "Dolar Corriente Ajustado Por Infla US": 1067
+    "Año": "1/08/1982",
+    "Basico Comercio (-20%)": 133,
+    "RIPTE": 167,
+    "Joven Profesional (+20%)": 208,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 167,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 532
   },
   {
-    "Año": 1982,
-    "Dolare Nominal": 1028,
-    "Dolar Corriente Ajustado Por Infla US": 415
+    "Año": "1/08/1983",
+    "Basico Comercio (-20%)": 333,
+    "RIPTE": 416,
+    "Joven Profesional (+20%)": 520,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 416,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1283
   },
   {
-    "Año": 1983,
-    "Dolare Nominal": 252,
-    "Dolar Corriente Ajustado Por Infla US": 101
+    "Año": "1/08/1984",
+    "Basico Comercio (-20%)": 429,
+    "RIPTE": 536,
+    "Joven Profesional (+20%)": 670,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 536,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1585
   },
   {
-    "Año": 1984,
-    "Dolare Nominal": 924,
-    "Dolar Corriente Ajustado Por Infla US": 345
+    "Año": "1/08/1985",
+    "Basico Comercio (-20%)": 321,
+    "RIPTE": 402,
+    "Joven Profesional (+20%)": 502,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 402,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1150
   },
   {
-    "Año": 1986,
-    "Dolare Nominal": 1028,
-    "Dolar Corriente Ajustado Por Infla US": 363
+    "Año": "1/08/1986",
+    "Basico Comercio (-20%)": 480,
+    "RIPTE": 600,
+    "Joven Profesional (+20%)": 750,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 600,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1680
   },
   {
-    "Año": 1989,
-    "Dolare Nominal": 900,
-    "Dolar Corriente Ajustado Por Infla US": 296
+    "Año": "1/08/1987",
+    "Basico Comercio (-20%)": 419,
+    "RIPTE": 524,
+    "Joven Profesional (+20%)": 655,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 524,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1416
   },
   {
-    "Año": 1989,
-    "Dolare Nominal": 68,
-    "Dolar Corriente Ajustado Por Infla US": 22
+    "Año": "1/08/1988",
+    "Basico Comercio (-20%)": 274,
+    "RIPTE": 342,
+    "Joven Profesional (+20%)": 428,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 342,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 888
   },
   {
-    "Año": 1990,
-    "Dolare Nominal": 156,
-    "Dolar Corriente Ajustado Por Infla US": 46
+    "Año": "1/08/1989",
+    "Basico Comercio (-20%)": 131,
+    "RIPTE": 163,
+    "Joven Profesional (+20%)": 204,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 163,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 403
   },
   {
-    "Año": 1991,
-    "Dolare Nominal": 1396,
-    "Dolar Corriente Ajustado Por Infla US": 415
+    "Año": "1/08/1990",
+    "Basico Comercio (-20%)": 602,
+    "RIPTE": 753,
+    "Joven Profesional (+20%)": 941,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 653,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1500
   },
   {
-    "Año": 1991,
-    "Dolare Nominal": 892,
-    "Dolar Corriente Ajustado Por Infla US": 254
+    "Año": "1/08/1991",
+    "Basico Comercio (-20%)": 713,
+    "RIPTE": 892,
+    "Joven Profesional (+20%)": 1.114,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 892,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 2010
   },
   {
-    "Año": 1992,
-    "Dolare Nominal": 1500,
-    "Dolar Corriente Ajustado Por Infla US": 430
+    "Año": "1/08/1992",
+    "Basico Comercio (-20%)": 779,
+    "RIPTE": 974,
+    "Joven Profesional (+20%)": 1.218,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 974,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 2131
   },
   {
-    "Año": 1993,
-    "Dolare Nominal": 1772,
-    "Dolar Corriente Ajustado Por Infla US": 490
+    "Año": "1/08/1993",
+    "Basico Comercio (-20%)": 883,
+    "RIPTE": 1.103,
+    "Joven Profesional (+20%)": 1.379,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 1103,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 2343
   },
   {
-    "Año": 1995,
-    "Dolare Nominal": 2324,
-    "Dolar Corriente Ajustado Por Infla US": 602
+    "Año": "1/08/1994",
+    "Basico Comercio (-20%)": 714,
+    "RIPTE": 893,
+    "Joven Profesional (+20%)": 1.072,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 893,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1840
   },
   {
-    "Año": 2000,
-    "Dolare Nominal": 1940,
-    "Dolar Corriente Ajustado Por Infla US": 440
+    "Año": "1/08/1995",
+    "Basico Comercio (-20%)": 730,
+    "RIPTE": 912,
+    "Joven Profesional (+20%)": 1.094,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 912,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1831
   },
   {
-    "Año": 2001,
-    "Dolare Nominal": 1400,
-    "Dolar Corriente Ajustado Por Infla US": 306
+    "Año": "1/08/1996",
+    "Basico Comercio (-20%)": 749,
+    "RIPTE": 936,
+    "Joven Profesional (+20%)": 1.123,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 936,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1827
   },
   {
-    "Año": 2002,
-    "Dolare Nominal": 500,
-    "Dolar Corriente Ajustado Por Infla US": 300
+    "Año": "1/08/1997",
+    "Basico Comercio (-20%)": 718,
+    "RIPTE": 898,
+    "Joven Profesional (+20%)": 1.078,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 898,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1714
   },
   {
-    "Año": 2003,
-    "Dolare Nominal": 540,
-    "Dolar Corriente Ajustado Por Infla US": 115
+    "Año": "1/08/1998",
+    "Basico Comercio (-20%)": 710,
+    "RIPTE": 888,
+    "Joven Profesional (+20%)": 1.066,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 888,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1669
   },
   {
-    "Año": 2007,
-    "Dolare Nominal": 964,
-    "Dolar Corriente Ajustado Por Infla US": 180
+    "Año": "1/08/1999",
+    "Basico Comercio (-20%)": 706,
+    "RIPTE": 883,
+    "Joven Profesional (+20%)": 1.06,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 883,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1622
   },
   {
-    "Año": 2009,
-    "Dolare Nominal": 1356,
-    "Dolar Corriente Ajustado Por Infla US": 252
+    "Año": "1/08/2000",
+    "Basico Comercio (-20%)": 705,
+    "RIPTE": 881,
+    "Joven Profesional (+20%)": 1.057,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 881,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1565
   },
   {
-    "Año": 2012,
-    "Dolare Nominal": 1796,
-    "Dolar Corriente Ajustado Por Infla US": 305
+    "Año": "1/08/2001",
+    "Basico Comercio (-20%)": 703,
+    "RIPTE": 879,
+    "Joven Profesional (+20%)": 1.055,
+    "USD Libre": 1,
+    "RIPTE En USD LIbre": 879,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1520
   },
   {
-    "Año": 2013,
-    "Dolare Nominal": 1676,
-    "Dolar Corriente Ajustado Por Infla US": 280
+    "Año": "1/08/2002",
+    "Basico Comercio (-20%)": 708,
+    "RIPTE": 885,
+    "Joven Profesional (+20%)": 1.062,
+    "USD Libre": "3,61",
+    "RIPTE En USD LIbre": 245,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 416
   },
   {
-    "Año": 2015,
-    "Dolare Nominal": 1252,
-    "Dolar Corriente Ajustado Por Infla US": 204
+    "Año": "1/08/2003",
+    "Basico Comercio (-20%)": 753,
+    "RIPTE": 941,
+    "Joven Profesional (+20%)": 1.129,
+    "USD Libre": "2,94",
+    "RIPTE En USD LIbre": 320,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 532
   },
   {
-    "Año": 2016,
-    "Dolare Nominal": 1788,
-    "Dolar Corriente Ajustado Por Infla US": 300
+    "Año": "1/08/2004",
+    "Basico Comercio (-20%)": 868,
+    "RIPTE": 1.085,
+    "Joven Profesional (+20%)": 1.302,
+    "USD Libre": "3,1",
+    "RIPTE En USD LIbre": 350,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 567
   },
   {
-    "Año": 2019,
-    "Dolare Nominal": 2100,
-    "Dolar Corriente Ajustado Por Infla US": 325
+    "Año": "1/08/2005",
+    "Basico Comercio (-20%)": 1.022,
+    "RIPTE": 1.277,
+    "Joven Profesional (+20%)": 1.532,
+    "USD Libre": "2,91",
+    "RIPTE En USD LIbre": 439,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 686
   },
   {
-    "Año": 2020,
-    "Dolare Nominal": 1428,
-    "Dolar Corriente Ajustado Por Infla US": 214
+    "Año": "1/08/2006",
+    "Basico Comercio (-20%)": 1.266,
+    "RIPTE": 1.583,
+    "Joven Profesional (+20%)": 1.9,
+    "USD Libre": "3,09",
+    "RIPTE En USD LIbre": 512,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 771
   },
   {
-    "Año": 2021,
-    "Dolare Nominal": 516,
-    "Dolar Corriente Ajustado Por Infla US": 74
+    "Año": "1/08/2007",
+    "Basico Comercio (-20%)": 1.553,
+    "RIPTE": 1.941,
+    "Joven Profesional (+20%)": 2.329,
+    "USD Libre": "3,15",
+    "RIPTE En USD LIbre": 616,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 909
   },
   {
-    "Año": 2022,
-    "Dolare Nominal": 450,
-    "Dolar Corriente Ajustado Por Infla US": 60
+    "Año": "1/08/2008",
+    "Basico Comercio (-20%)": 2.024,
+    "RIPTE": 2.53,
+    "Joven Profesional (+20%)": 3.036,
+    "USD Libre": "3,03",
+    "RIPTE En USD LIbre": 835,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1170
   },
   {
-    "Año": 2023,
-    "Dolare Nominal": 400,
-    "Dolar Corriente Ajustado Por Infla US": 51
+    "Año": "1/08/2009",
+    "Basico Comercio (-20%)": 2.263,
+    "RIPTE": 2.829,
+    "Joven Profesional (+20%)": 3.395,
+    "USD Libre": "3,85",
+    "RIPTE En USD LIbre": 735,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1045
   },
   {
-    "Año": 2024,
-    "Dolare Nominal": 444,
-    "Dolar Corriente Ajustado Por Infla US": 56
+    "Año": "1/08/2010",
+    "Basico Comercio (-20%)": 2.856,
+    "RIPTE": 3.57,
+    "Joven Profesional (+20%)": 4.284,
+    "USD Libre": "3,95",
+    "RIPTE En USD LIbre": 904,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1271
+  },
+  {
+    "Año": "1/08/2011",
+    "Basico Comercio (-20%)": 3.9,
+    "RIPTE": 4.875,
+    "Joven Profesional (+20%)": 5.85,
+    "USD Libre": "4,38",
+    "RIPTE En USD LIbre": 1114,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1510
+  },
+  {
+    "Año": "1/08/2012",
+    "Basico Comercio (-20%)": 5.174,
+    "RIPTE": 6.468,
+    "Joven Profesional (+20%)": 7.762,
+    "USD Libre": "6,32",
+    "RIPTE En USD LIbre": 1023,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1363
+  },
+  {
+    "Año": "1/08/2013",
+    "Basico Comercio (-20%)": 6.604,
+    "RIPTE": 8.255,
+    "Joven Profesional (+20%)": 9.906,
+    "USD Libre": "8,9",
+    "RIPTE En USD LIbre": 928,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1218
+  },
+  {
+    "Año": "1/08/2014",
+    "Basico Comercio (-20%)": 8.757,
+    "RIPTE": 10.946,
+    "Joven Profesional (+20%)": 13.135,
+    "USD Libre": "13,43",
+    "RIPTE En USD LIbre": 815,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1052
+  },
+  {
+    "Año": "1/08/2015",
+    "Basico Comercio (-20%)": 11.678,
+    "RIPTE": 14.598,
+    "Joven Profesional (+20%)": 17.518,
+    "USD Libre": "15,19",
+    "RIPTE En USD LIbre": 961,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1238
+  },
+  {
+    "Año": "1/08/2016",
+    "Basico Comercio (-20%)": 15.373,
+    "RIPTE": 19.216,
+    "Joven Profesional (+20%)": 23.059,
+    "USD Libre": "15,45",
+    "RIPTE En USD LIbre": 1244,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1586
+  },
+  {
+    "Año": "1/08/2017",
+    "Basico Comercio (-20%)": 19.76,
+    "RIPTE": 24.7,
+    "Joven Profesional (+20%)": 29.64,
+    "USD Libre": "18,16",
+    "RIPTE En USD LIbre": 1360,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1701
+  },
+  {
+    "Año": "1/08/2018",
+    "Basico Comercio (-20%)": 24.782,
+    "RIPTE": 30.978,
+    "Joven Profesional (+20%)": 37.174,
+    "USD Libre": "33,23",
+    "RIPTE En USD LIbre": 932,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 1135
+  },
+  {
+    "Año": "1/08/2019",
+    "Basico Comercio (-20%)": 35.274,
+    "RIPTE": 44.092,
+    "Joven Profesional (+20%)": 52.91,
+    "USD Libre": "54,22",
+    "RIPTE En USD LIbre": 813,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 973
+  },
+  {
+    "Año": "1/08/2020",
+    "Basico Comercio (-20%)": 48.614,
+    "RIPTE": 60.767,
+    "Joven Profesional (+20%)": 72.92,
+    "USD Libre": "135,68",
+    "RIPTE En USD LIbre": 448,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 529
+  },
+  {
+    "Año": "1/08/2021",
+    "Basico Comercio (-20%)": 72.272,
+    "RIPTE": 90.34,
+    "Joven Profesional (+20%)": 108.408,
+    "USD Libre": 181,
+    "RIPTE En USD LIbre": 499,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 560
+  },
+  {
+    "Año": "1/08/2022",
+    "Basico Comercio (-20%)": 124.489,
+    "RIPTE": 155.611,
+    "Joven Profesional (+20%)": 186.733,
+    "USD Libre": "267,5",
+    "RIPTE En USD LIbre": 582,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 603
+  },
+  {
+    "Año": "1/08/2023",
+    "Basico Comercio (-20%)": 259.998,
+    "RIPTE": 324.997,
+    "Joven Profesional (+20%)": 389.996,
+    "USD Libre": "647,5",
+    "RIPTE En USD LIbre": 502,
+    "RIPTE En USD Libre Ajustado por Infla US a Diciembre 2023": 502
   }
 ]
